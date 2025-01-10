@@ -1,6 +1,6 @@
-# esp32_wifi_remote
+# wifi_joystick_controller
 
-A new Flutter project.
+A WiFi remote controller app with two joystics and two button groups.
 
 ## Getting Started
 
